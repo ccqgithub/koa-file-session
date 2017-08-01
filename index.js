@@ -64,6 +64,6 @@ module.exports = function(app, opts) {
       }
     };
 
-    next();
+    await next();
   }
 }
