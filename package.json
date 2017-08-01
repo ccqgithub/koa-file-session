@@ -1,0 +1,23 @@
+{
+  "name": "koa-file-session",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccqgithub/koa-file-session.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccqgithub/koa-file-session/issues"
+  },
+  "homepage": "https://github.com/ccqgithub/koa-file-session#readme",
+  "dependencies": {
+    "flat-cache": "^1.2.2",
+    "uuid": "^3.1.0"
+  }
+}
