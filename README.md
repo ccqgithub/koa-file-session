@@ -1,5 +1,7 @@
 # koa-file-session
 
+> !!! Deprecated.  please use [koa-filestore](https://github.com/ccqgithub/koa-filestore).
+
 > Session middleware for koa2, use file store, must use with [koa-session](https://www.npmjs.com/package/koa-session).
 
 > The file store use [flat-cache](https://github.com/royriojas/flat-cache).
