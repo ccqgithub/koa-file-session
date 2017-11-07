@@ -1,6 +1,8 @@
 # koa-file-session
 
-> !!! Deprecated.  please use [koa-filestore](https://github.com/ccqgithub/koa-filestore).
+> !!! Deprecated.  
+
+> please use [koa-filestore](https://github.com/ccqgithub/koa-filestore).
 
 
 ## features
